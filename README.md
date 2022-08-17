@@ -1,4 +1,4 @@
-# Firefox Nightly 22 Foxfooding issues
+# Firefox Nightly 2022 Foxfooding issues
 
 This is a repo that was used for the Firefox Nightly Foxfooding campaign.
 
